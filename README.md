@@ -1,4 +1,4 @@
-# **Basics Of Computer Programming For Beginners.** 
+# **Computer Programming - Basics For Beginners.** 
 
 ---
 **What Is Computer Programming?**
